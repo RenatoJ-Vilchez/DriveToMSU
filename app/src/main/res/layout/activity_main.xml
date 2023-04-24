@@ -9,10 +9,10 @@
 
     <TextView
         android:id="@+id/title_textview"
-        android:text="Click on the Button to the Drive to MSU App"
-        android:textSize="40sp"
+        android:text="An app to drive to Montclair State University. Want to get there? Click on the Button to the Drive to MSU App and you will be there"
+        android:textSize="30sp"
         android:textStyle="bold"
-        android:textColor="#119e6d"
+        android:textColor="#80ad9e"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"/>
